@@ -1,0 +1,1 @@
+In question_4 I assumed that user gives SNR directly.
